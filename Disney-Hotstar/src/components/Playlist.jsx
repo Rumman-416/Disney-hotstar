@@ -48,24 +48,26 @@ const Playlist = () => {
     const slideLeft = () => {
         var sciFi = document.getElementById("slider-s");
         var popular = document.getElementById("slider-p");
-        var popular = document.getElementById("slider-n");
+        var newRelease = document.getElementById("slider-n");
         sciFi.scrollLeft -= 500;
         popular.scrollLeft -= 500;
+        newRelease.scrollLeft -= 500;
     };
 
     const slideRight = () => {
         var sciFi = document.getElementById("slider-s");
         var popular = document.getElementById("slider-p");
-        var popular = document.getElementById("slider-n");
+        var newRelease = document.getElementById("slider-n");
         sciFi.scrollLeft += 500;
         popular.scrollLeft += 500;
+        newRelease.scrollLeft += 500;
     };
 
     return (
         <>
         <Nav/>
         <First/>
-            <div id='playlist' className='my-5 mx-2 bg-black bg-opacity-50 border border-sky-800 p-2'>
+            <div id='playlist' className='my-5 mx-2 bg-black bg-opacity-50 border border-sky-800 p-2 '>
                 <h1 className='text-6xl m-5'> Sci-Fi</h1>
                 <div className='relative flex items-center'>
                 <AiFillCaretLeft className=' text-4xl' onClick={slideLeft}/>
