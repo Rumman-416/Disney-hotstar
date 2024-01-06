@@ -1,0 +1,460 @@
+[{
+  "_id": {
+    "$oid": "658c96e73b2938f9b6753f2d"
+  },
+  "id": 1,
+  "title": "Inception",
+  "category": "Sci-Fi",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLB7H-pCWhrij1H6jcsYjEzUsaH9I71uzEOQ&usqp=CAU",
+  "description": "A mind-bending journey into the world of dreams and reality."
+},
+{
+  "_id": {
+    "$oid": "658c96e73b2938f9b6753f2e"
+  },
+  "id": 2,
+  "title": "The Shawshank Redemption",
+  "category": "Drama",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBzBdsrcdBHDtNfHGg1joz0ZnldWfrCqF4IA&usqp=CAU",
+  "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency."
+},
+{
+  "_id": {
+    "$oid": "658c96e73b2938f9b6753f2f"
+  },
+  "id": 3,
+  "title": "Stranger Things",
+  "category": "Sci-Fi",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBt132h1Om_7h0NpGRoQogI6v_URieBOvLCQ&usqp=CAU",
+  "description": "A group of kids in a small town uncover a series of supernatural mysteries and government conspiracies when a young girl with telekinetic powers appears."
+},
+{
+  "_id": {
+    "$oid": "658c96e73b2938f9b6753f31"
+  },
+  "id": 5,
+  "title": "Breaking Bad",
+  "category": "Crime",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKTVcGMXlWg3U5O5rhN__YsFbKuKhrgbAj3A&usqp=CAU",
+  "description": "A high school chemistry teacher turned methamphetamine manufacturer teams up with a former student, leading to a dangerous criminal underworld."
+},
+{
+  "_id": {
+    "$oid": "658c96e73b2938f9b6753f32"
+  },
+  "id": 6,
+  "title": "The Mandalorian",
+  "category": "Action",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxsmngd9Ljec51lx4zIr5db8h9I_v1LsX8zA&usqp=CAU",
+  "description": "A lone bounty hunter navigates the outer reaches of the galaxy, far from the authority of the New Republic."
+},
+{
+  "_id": {
+    "$oid": "658c96e73b2938f9b6753f33"
+  },
+  "id": 7,
+  "title": "The Dark Knight",
+  "category": "Action",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm9ja4TGKfrWn44_Q13VUzz9NaMSqL7T233Q&usqp=CAU",
+  "description": "Batman faces the Joker, a criminal mastermind with a dark sense of humor, in this epic battle between good and evil."
+},
+{
+  "_id": {
+    "$oid": "658c96e73b2938f9b6753f34"
+  },
+  "id": 8,
+  "title": "Game of Thrones",
+  "category": "Fantasy",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkz1CEf1o0D1f8ClO7mLHTJWvBq-aWfzfS-w&usqp=CAU",
+  "description": "A medieval fantasy epic that follows the power struggles among noble families as they vie for control of the Iron Throne."
+},
+{
+  "_id": {
+    "$oid": "658c96e73b2938f9b6753f35"
+  },
+  "id": 9,
+  "title": "Strive for Greatness",
+  "category": "Documentary",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUxMjm7Wt6sDVswE4PHZBzFsSaGVZ5WlNV9g&usqp=CAU",
+  "description": "An inspirational documentary showcasing the journey of individuals who overcome challenges to achieve greatness in their respective fields."
+},
+{
+  "_id": {
+    "$oid": "658c96e73b2938f9b6753f36"
+  },
+  "id": 10,
+  "title": "Avatar",
+  "category": "Adventure",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIsnXXpCxm3rUeosGAEdnci7txBWYo6kU3ew&usqp=CAU",
+  "description": "In a distant world, a paraplegic marine is given a unique mission that leads him to question his allegiances and fight for the survival of an alien civilization."
+},
+{
+  "_id": {
+    "$oid": "658c96e73b2938f9b6753f37"
+  },
+  "id": 11,
+  "title": "The Crown",
+  "category": "Historical Drama",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWcdVKF2hxLf35qFW2SWPXnsv9U24D_-6TKQ&usqp=CAU",
+  "description": "A biographical story of the reign of Queen Elizabeth II and the events that shaped the second half of the 20th century."
+},
+{
+  "_id": {
+    "$oid": "658c96e73b2938f9b6753f38"
+  },
+  "id": 12,
+  "title": "The Matrix",
+  "category": "Action",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGf-kFzGDHtAxbNzuxtM5VYbWSDtu6OMUFrA&usqp=CAU",
+  "description": "A computer hacker learns about the true nature of reality and joins a group of rebels to fight against a powerful artificial intelligence."
+},
+{
+  "_id": {
+    "$oid": "658c96e73b2938f9b6753f39"
+  },
+  "id": 13,
+  "title": "Friends",
+  "category": "Comedy",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDbCU-TBzJ7Flc_xFA5dknzHwDU3KoqKB3Dg&usqp=CAU",
+  "description": "Follow the lives of six friends living in New York City as they navigate through the ups and downs of relationships, work, and family."
+},
+{
+  "_id": {
+    "$oid": "658c96e73b2938f9b6753f3a"
+  },
+  "id": 14,
+  "title": "Stray",
+  "category": "Documentary",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnT65nxKlN-W4aO25pCQV-vr9I64oFG6k9qQ&usqp=CAU",
+  "description": "A heartwarming documentary that follows the lives of stray dogs in Istanbul and the people who care for them."
+},
+{
+  "_id": {
+    "$oid": "658c96e73b2938f9b6753f3b"
+  },
+  "id": 15,
+  "title": "Jurassic Park",
+  "category": "Adventure",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT6ycImUqo8vQV5VXCXE7cUrMMpbpMoJnieA&usqp=CAU",
+  "description": "A group of scientists and tourists must survive the deadly attractions of a theme park filled with genetically engineered dinosaurs."
+},
+{
+  "_id": {
+    "$oid": "658c96e73b2938f9b6753f3c"
+  },
+  "id": 16,
+  "title": "The Witcher",
+  "category": "Fantasy",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmoUipmqhqSW4pDrM-UpnibvLB4U6hwFhq-A&usqp=CAU",
+  "description": "Geralt of Rivia, a monster hunter, struggles to find his place in a world where people are often more wicked than the beasts he hunts."
+},
+{
+  "_id": {
+    "$oid": "658c96e73b2938f9b6753f3d"
+  },
+  "id": 17,
+  "title": "La La Land",
+  "category": "Musical",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpJFPllzwAJ2uUspAiLg8Azx9SXpl0L8Dv0g&usqp=CAU",
+  "description": "A romantic musical that follows the love story of a jazz musician and an aspiring actress as they pursue their dreams in Los Angeles."
+},
+{
+  "_id": {
+    "$oid": "658c96e73b2938f9b6753f3e"
+  },
+  "id": 18,
+  "title": "Narcos",
+  "category": "Crime",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSJdg8QTyr3yXHfFnA6ZFltr-w8XOpIG8btg&usqp=CAU",
+  "description": "A gripping crime drama that chronicles the rise and fall of the infamous drug lord Pablo Escobar and the DEA agents trying to bring him down."
+},
+{
+  "_id": {
+    "$oid": "658c96e73b2938f9b6753f3f"
+  },
+  "id": 19,
+  "title": "The Great British Bake Off",
+  "category": "Reality TV",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwY_GYjifTiNZmyFWOkDFZK2rrKIJocrpNZtxeyhtAX5N1288khAyNOD_aw1GwNvaINoE&usqp=CAU",
+  "description": "Amateur bakers compete in a series of challenges to impress the judges and be crowned the best baker."
+},
+{
+  "_id": {
+    "$oid": "658c96e73b2938f9b6753f40"
+  },
+  "id": 20,
+  "title": "Interstellar",
+  "category": "Sci-Fi",
+  "image": "https://image.tmdb.org/t/p/original/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+  "description": "A group of astronauts embarks on a mission through a wormhole in search of a new habitable planet for humanity."
+},
+{
+  "_id": {
+    "$oid": "658c96e73b2938f9b6753f41"
+  },
+  "id": 21,
+  "title": "The Godfather",
+  "category": "Crime",
+  "image": "https://image.tmdb.org/t/p/original/wWJbBo5yjw22AIjE8isBFoiBI3S.jpg",
+  "description": "The patriarch of an organized crime dynasty transfers control of his empire to his reluctant son."
+},
+{
+  "_id": {
+    "$oid": "658c96e73b2938f9b6753f42"
+  },
+  "id": 22,
+  "title": "Pulp Fiction",
+  "category": "Crime",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAWFpTOcLanZgEwYgp0Ez-wm7wET72A9Vrlw&usqp=CAU",
+  "description": "Interwoven stories of crime, redemption, and the search for a mysterious briefcase."
+},
+{
+  "_id": {
+    "$oid": "658c96e73b2938f9b6753f43"
+  },
+  "id": 23,
+  "title": "The Notebook",
+  "category": "Romance",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ72GVTimpMgqfkCEvmxuBa39B12wWNLKy1ag&usqp=CAU",
+  "description": "A young couple's love story is narrated from the present-day in a nursing home."
+},
+{
+  "_id": {
+    "$oid": "658c96e73b2938f9b6753f44"
+  },
+  "id": 24,
+  "title": "Blade Runner",
+  "category": "Sci-Fi",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQLo5T_n5gsjX2kerpz8Muu3mUSU1vzm79tg&usqp=CAU",
+  "description": "A blade runner must pursue and terminate four replicants who stole a ship in space."
+},
+{
+  "_id": {
+    "$oid": "658c96e73b2938f9b6753f45"
+  },
+  "id": 25,
+  "title": "The Shining",
+  "category": "Horror",
+  "image": "https://cdn4.volusion.store/prakm-mcyzp/v/vspfiles/photos/SRNK-2.jpg?v-cache=1484017790",
+  "description": "A family heads to an isolated hotel for the winter where an evil and spiritual presence influences the father into violence."
+},
+{
+  "_id": {
+    "$oid": "658c96e73b2938f9b6753f46"
+  },
+  "id": 26,
+  "title": "The Departed",
+  "category": "Crime",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmvo4Fd2AuHJJGjp-d1KYlDMuvePQ_2PqXAQ&usqp=CAU",
+  "description": "An undercover cop and a mole in the police force attempt to identify each other while infiltrating an Irish gang in Boston."
+},
+{
+  "_id": {
+    "$oid": "658c96e73b2938f9b6753f47"
+  },
+  "id": 27,
+  "title": "The Fault in Our Stars",
+  "category": "Romance",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaFUhOmvwwWvxnCVZJlxF62qDIOuSGpt8fBg&usqp=CAU",
+  "description": "Two teenagers with cancer fall in love and embark on a journey to meet their favorite author."
+},
+{
+  "_id": {
+    "$oid": "658c96e73b2938f9b6753f48"
+  },
+  "id": 28,
+  "title": "The Matrix Reloaded",
+  "category": "Sci-Fi",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGf-kFzGDHtAxbNzuxtM5VYbWSDtu6OMUFrA&usqp=CAU",
+  "description": "Neo, Trinity, and Morpheus continue their battle against the machines in the second installment of the Matrix trilogy."
+},
+{
+  "_id": {
+    "$oid": "658c96e73b2938f9b6753f49"
+  },
+  "id": 29,
+  "title": "Psycho",
+  "category": "Horror",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJAQ9IqvsddCSkG9GAIgMybrO1NKVxSsWJUQ&usqp=CAU",
+  "description": "A secretary embezzles money and checks into a remote motel run by a disturbed innkeeper."
+},
+{
+  "_id": {
+    "$oid": "658c96e73b2938f9b6753f4a"
+  },
+  "id": 30,
+  "title": "La La Land",
+  "category": "Romance",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpJFPllzwAJ2uUspAiLg8Azx9SXpl0L8Dv0g&usqp=CAU",
+  "description": "A musical that follows the love story of a jazz musician and an aspiring actress as they pursue their dreams in Los Angeles."
+},
+{
+  "_id": {
+    "$oid": "658c96e73b2938f9b6753f4b"
+  },
+  "id": 31,
+  "title": "The Silence of the Lambs",
+  "category": "Crime",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCO0CEkR9vnqnrdTmiw2SaSue89v_FHzLfzQ&usqp=CAU",
+  "description": "A young FBI cadet seeks the help of an imprisoned and manipulative cannibal killer to catch another serial killer."
+},
+{
+  "_id": {
+    "$oid": "658c96e73b2938f9b6753f4c"
+  },
+  "id": 32,
+  "title": "The Conjuring",
+  "category": "Horror",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVbkw7-o1Ca_VAilD0bYo44vBA5Fhh3ZG_2A&usqp=CAU",
+  "description": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse."
+},
+{
+  "_id": {
+    "$oid": "658c96e73b2938f9b6753f4d"
+  },
+  "id": 33,
+  "title": "Eternal Sunshine of the Spotless Mind",
+  "category": "Romance",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqqEBbKhNAE5khsPFmGkuEnk5lXEc0R56v6A&usqp=CAU",
+  "description": "A man undergoes a procedure to erase the memories of his failed relationship, but things don't go as planned."
+},
+{
+  "_id": {
+    "$oid": "658c96e73b2938f9b6753f4e"
+  },
+  "id": 34,
+  "title": "Inglourious Basterds",
+  "category": "Crime",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwq5nHVPEr4Dt3SYlL0dG4-I9vLNiXNDCYNQ&usqp=CAU",
+  "description": "In Nazi-occupied France during World War II, a group of Jewish-American soldiers plan to assassinate Hitler."
+},
+{
+  "_id": {
+    "$oid": "658c96e73b2938f9b6753f4f"
+  },
+  "id": 35,
+  "title": "The Exorcist",
+  "category": "Horror",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAT6v0gb8WlceXIT10iRGDUP8twqlYRT1Vog&usqp=CAU",
+  "description": "When a young girl is possessed by a mysterious entity, two priests perform an exorcism to save her."
+},
+{
+  "_id": {
+    "$oid": "658c96e73b2938f9b6753f50"
+  },
+  "id": 36,
+  "title": "Gravity",
+  "category": "Sci-Fi",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrSpWm45MT6UI0zYsuqpEivG8_VUUtb-hvmA&usqp=CAU",
+  "description": "Two astronauts work together to survive after an accident leaves them stranded in space."
+},
+{
+  "_id": {
+    "$oid": "658c96e73b2938f9b6753f51"
+  },
+  "id": 37,
+  "title": "Casablanca",
+  "category": "Romance",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3l5qLlqst332HgL05I5giSAOIAQr2-zJ6yA&usqp=CAU ",
+  "description": "In World War II-era Morocco, a cynical American expatriate encounters a former lover, with unforeseen complications."
+},
+{
+  "_id": {
+    "$oid": "658c96e73b2938f9b6753f52"
+  },
+  "id": 38,
+  "title": "Seven",
+  "category": "Crime",
+  "image": "https://m.media-amazon.com/images/M/MV5BNDMzZDNlYjktZTc3MS00YjBhLTk3OWUtYjE5YTZlNzBmMjA3XkEyXkFqcGdeQXVyMTAzMDM4MjM0._V1_.jpg",
+  "description": "Two detectives hunt a serial killer who uses the seven deadly sins as his motives."
+},
+{
+  "_id": {
+    "$oid": "658c96e73b2938f9b6753f53"
+  },
+  "id": 39,
+  "title": "A Nightmare on Elm Street",
+  "category": "Horror",
+  "image": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/fc8fd461631167.5a74735b233e7.jpg",
+  "description": "A group of teenagers is terrorized by a vengeful spirit with the ability to enter their dreams."
+},
+{
+  "_id": {
+    "$oid": "658c96e73b2938f9b6753f54"
+  },
+  "id": 40,
+  "title": "Her",
+  "category": "Sci-Fi",
+  "image": "https://i.etsystatic.com/18242346/r/il/34abac/2835655237/il_570xN.2835655237_4h8m.jpg",
+  "description": "In a future where technology has advanced,"
+},
+{
+  "_id": {
+    "$oid": "658c96e73b2938f9b6753f55"
+  },
+  "id": 41,
+  "title": "The Sixth Sense",
+  "category": "Horror",
+  "image": "https://images.moviesanywhere.com/958728291f954138a5e9b4b59bb39c46/08e19a4a-006d-409a-8e4b-dd5c750bd2f8.jpg",
+  "description": "A young boy communicates with spirits that don't know they're dead, seeking the help of a disheartened child psychologist."
+},
+{
+  "_id": {
+    "$oid": "658c96e73b2938f9b6753f56"
+  },
+  "id": 42,
+  "title": "Ocean's Eleven",
+  "category": "Crime",
+  "image": "https://m.media-amazon.com/images/M/MV5BYzVmYzVkMmUtOGRhMi00MTNmLThlMmUtZTljYjlkMjNkMjJkXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+  "description": "A group of criminals plan and execute a heist of a Las Vegas casino."
+},
+{
+  "_id": {
+    "$oid": "658c96e73b2938f9b6753f57"
+  },
+  "id": 43,
+  "title": "Ferris Bueller's Day Off",
+  "category": "Comedy",
+  "image": "https://m.media-amazon.com/images/M/MV5BMDA0NjZhZWUtNmI2NC00MmFjLTgwZDYtYzVjZmNhMDVmOTBkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "A high school student fakes an illness to have a day of fun in Chicago with his friends."
+},
+{
+  "_id": {
+    "$oid": "658c96e73b2938f9b6753f58"
+  },
+  "id": 44,
+  "title": "When Harry Met Sally",
+  "category": "Romance",
+  "image": "https://m.media-amazon.com/images/I/71838m6DXfL._AC_UF894,1000_QL80_.jpg",
+  "description": "Two friends navigate the challenges of maintaining a platonic relationship over several years."
+},
+{
+  "_id": {
+    "$oid": "658c96e73b2938f9b6753f59"
+  },
+  "id": 45,
+  "title": "The Hitchhiker's Guide to the Galaxy",
+  "category": "Sci-Fi",
+  "image": "https://m.media-amazon.com/images/M/MV5BZmU5MGU4MjctNjA2OC00N2FhLWFhNWQtMzQyMGI2ZmQ0Y2YyL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+  "description": "An ordinary man is swept off Earth just before it is destroyed to make way for a hyperspace bypass."
+},
+{
+  "_id": {
+    "$oid": "658c96e73b2938f9b6753f5a"
+  },
+  "id": 46,
+  "title": "Ghostbusters",
+  "category": "Comedy",
+  "image": "https://i.etsystatic.com/26593283/r/il/ccfb38/2884226038/il_570xN.2884226038_5pnk.jpg",
+  "description": "A group of paranormal investigators start a ghost-catching business in New York City."
+},
+{
+  "_id": {
+    "$oid": "658c96e73b2938f9b6753f5b"
+  },
+  "id": 47,
+  "title": "The Conjuring",
+  "category": "Horror",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVbkw7-o1Ca_VAilD0bYo44vBA5Fhh3ZG_2A&usqp=CAU",
+  "description": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse."
+}]
